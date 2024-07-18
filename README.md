@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white).
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HariPasapuleti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HariPasapuleti&theme=white&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HariPasapuleti& theme= dark &hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariPasapuleti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
