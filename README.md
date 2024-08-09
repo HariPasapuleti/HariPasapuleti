@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hari Veera Venkat Pasapuleti</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Hi+There!+👋+I'm+Hari+Veera+Venkat;"/>
+</h1>
+      
 <h3 align="center">A passionate Web Developer from India</h3>
 
 # 💫 About Me:
@@ -22,6 +25,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=HariPasapuleti&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HariPasapuleti&theme=tokyonight&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariPasapuleti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 📊 Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/hari_veera_venkat?theme=nord)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HariPasapuleti&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
