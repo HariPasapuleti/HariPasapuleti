@@ -22,22 +22,22 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HariPasapuleti&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HariPasapuleti&theme=tokyonight&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariPasapuleti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=HariPasapuleti&theme=unicorn&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HariPasapuleti&theme=unicorn&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariPasapuleti&theme=unicorn&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/hari_veera_venkat?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hari_veera_venkat?theme=unicorn)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HariPasapuleti&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HariPasapuleti&theme=unicornhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=unicorn) -->
 
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/haripasapuleti) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/kvskmurty2802/)
 
-![snake gif](https://github.com/HariPasapuleti/HariPasapuleti/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/HariPasapuleti/HariPasapuleti/blob/output/github-contribution-grid-snake.gif) -->
