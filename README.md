@@ -10,7 +10,7 @@
 - 🤝🏻 I'm looking for help with landing an internship or job.
 - 🌱 I'm currently learning DSA.
 - 💬 Ask me about web development.
-- ⚡ Fun fact: I enjoy playing the guitar.
+- ⚡ Fun fact: I enjoy listening music.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-veera-venkat-pasapuleti-0043a8284/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haripasapuleti8055) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hari__pasapuleti/)
