@@ -3,6 +3,8 @@
 </h1>
       
 <h3 align="center">A passionate Web Developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HariPasapuleti&label=Profile%20views&color=0e75b6&style=flat" alt="HariPasapuleti" /> </p>
+
 
 # 💫 About Me:
 - 🔭 I'm currently working on full stack projects.
@@ -39,7 +41,11 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hari_veera_venkat?theme=unicorn)
 
 ## 🏆 GitHub Trophies
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=HariPasapuleti&theme=unicornhub&no-frame=false&no-bg=false&margin-w=4)
+-->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HariPasapuleti" alt="HariPasapuleti" /></a> </p>
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=unicorn) -->
